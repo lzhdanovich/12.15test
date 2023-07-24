@@ -1,2 +1,2 @@
-CreatedById,CreatedDate,Guid,LastModifiedById,LastModifiedDate,Name,OwnerId,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__Product__c,SBQQ__TargetObject__c
-0055e000006YSTaAAO,2023-06-28T17:27:06.000Z,5b4eecaf-9754-4a82-a397-77512e4b5b85,,2023-06-28T17:27:06.000Z,newNew,,false,,All,,On Calculate,,,,Configurator
+Guid,OwnerId,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__Product__c,SBQQ__TargetObject__c
+5b4eecaf-9754-4a82-a397-77512e4b5b85,,newNew,2023-06-28T17:27:06.000Z,0055e000006YSTaAAO,2023-06-28T17:27:06.000Z,,false,,All,,On Calculate,,,,Configurator
